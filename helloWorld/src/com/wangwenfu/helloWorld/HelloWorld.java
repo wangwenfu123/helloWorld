@@ -6,6 +6,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println(System.currentTimeMillis());
 		//jjjjjjjjjjjjjjjjjjjjjjjjj
+		System.out.println(System.currentTimeMillis());
+		System.out.println(System.currentTimeMillis());
+		System.out.println(System.currentTimeMillis());
 	}
 
 }
